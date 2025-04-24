@@ -2,12 +2,12 @@
 
 🎓 Second-year B.Tech CSE student at **COER University, Roorkee**  
 🚀 Passionate about **Machine Learning**, **Computer Vision**, and **Full Stack Web Development**  
-🎯 Currently building cool mini-projects like:
-- 🧠 **Age & Gender Detection System** (CCTV-ready)
-- 🎬 **Meme Generator** (Image & Video support)
-- 🐶 **Cats vs Dogs Classifier** using CNN
-- 🤖 **Hand Gesture Recognition**  
-- 🌾 **Crop Type Detection**
+🎯 Currently building and showcasing real-world **Machine Learning** and **Full-Stack** projects like:
+- 🧠 Age & Gender Detection System (CSV Logging + CCTV Surveillance Ready)
+- 🎬 Meme Generator (Image + Video, Fonts & Social Sharing)
+- 🐶 Cats vs Dogs Detection using CNN
+- ✋ Hand Gesture Recognition using Computer Vision
+- 🌾 Crop Type Classification with Deep Learning
 
 ---
 
