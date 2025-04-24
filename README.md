@@ -22,7 +22,7 @@
 - ✅ Strengthen my ML & CV skills  
 - ✅ Contribute to open-source  
 - 🔜 Intern at a top tech company or research institute  
-- 🎓 Apply for MS in CS from top German universities
+
 
 ---
 
