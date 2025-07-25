@@ -27,8 +27,8 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/aarohi-gaurav-sharma-b0a200300)  
-- 📧 sharmaaarohigaurav@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aarohig-sharma1822)  
+- 📧 aarohisharma2922@gmail.com  
 - 🧑‍💻 [GitHub](https://github.com/aarohi1822)
 
 Thanks for stopping by! Feel free to explore my repositories. 😊
