@@ -27,7 +27,7 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/aarohig-sharma1822)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aarohig-sharma22)  
 - 📧 aarohisharma2922@gmail.com  
 - 🧑‍💻 [GitHub](https://github.com/aarohi1822)
 
