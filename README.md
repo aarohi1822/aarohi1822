@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Aarohi Gaurav Sharma
 
-🎓 Second-year B.Tech CSE student at **COER University, Roorkee**  
+🎓 Third-year B.Tech CSE student at **COER University, Roorkee**  
 🚀 Passionate about **Machine Learning**, **Computer Vision**, and **Full Stack Web Development**  
 🎯 Currently building and showcasing real-world **Machine Learning** and **Full-Stack** projects like:
 - 🧠 Age & Gender Detection System (CSV Logging + CCTV Surveillance Ready)
