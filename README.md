@@ -9,7 +9,7 @@
 
 - 🎓 3rd-year B.Tech CSE student at **COER University**, graduating July 2027
 - 🔬 2× Research Intern at **IIT Roorkee** — AI/ML systems & Anomaly Detection
-- 🔐 Incoming Research Intern at **NSUT Delhi** — Post-Quantum Cryptography
+- 🔐 Research Intern at **NSUT Delhi** — Post-Quantum Cryptography
 - 🌍 Preparing for **MS in Germany** (Winter 2027) — TU Berlin / Saarland / Hamburg
 - 🐍 Primarily working in **Python** — ML, Deep Learning, Data Analysis, Flask
 - 📊 Currently building expertise in **Data Analytics** (SQL, Power BI, Tableau)
@@ -51,9 +51,7 @@
 | Project | Domain | Stack | Links |
 |---------|--------|-------|-------|
 | 🛰️ **IoT-Sentinel** | Anomaly Detection · IoT | PyTorch, LSTM-AE, Streamlit | [GitHub](https://github.com/aarohi1822/iot-sentinel-anomaly-detection) · [Live Demo](https://iot-sentinel.streamlit.app/) |
-| 🩻 **OsteoDetect** | Medical AI · Explainable AI | TensorFlow, ResNet50, Grad-CAM | [GitHub](https://github.com/aarohi1822) |
 | 👁️ **DemographAI** | Computer Vision | OpenCV, CNNs, Caffe | [GitHub](https://github.com/aarohi1822/age-gender-detection) · [Live Demo](https://age-gender-detection-ag.streamlit.app/) |
-| 🌿 **DeepWeedVision** | Precision Agriculture · CV | TensorFlow, CNN | [GitHub](https://github.com/aarohi1822) |
 
 ---
 
