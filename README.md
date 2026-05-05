@@ -2,6 +2,7 @@
 
 **B.Tech Computer Science & Engineering | COER University, Roorkee**
 **AI/ML · Data Science · Cybersecurity · Deep Learning**
+**AI/ML Engineer | Portfolio: https://aarohi1822.github.io/aarohi-portfolio/**
 
 ---
 
