@@ -11,7 +11,6 @@
 - 🎓 3rd-year B.Tech CSE student at **COER University**, graduating July 2027
 - 🔬 2× Research Intern at **IIT Roorkee** — AI/ML systems & Anomaly Detection
 - 🔐 Research Intern at **NSUT Delhi** — Post-Quantum Cryptography
-- 🌍 Preparing for **MS in Germany** (Winter 2027) — TU Berlin / Saarland / Hamburg
 - 🐍 Primarily working in **Python** — ML, Deep Learning, Data Analysis, Flask
 - 📊 Currently building expertise in **Data Analytics** (SQL, Power BI, Tableau)
 - 🇩🇪 Learning German — A2 → targeting B2 (Goethe Institut)
