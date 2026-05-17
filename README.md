@@ -44,6 +44,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 **Dev & Deployment**
 
@@ -59,6 +60,7 @@
 
 | Project | Domain | Stack | Links |
 |---------|--------|-------|-------|
+| ⚙️ **TurbXplain** | Predictive Maintenance · XAI · Time Series | PyTorch, XGBoost, SHAP, FastAPI, Streamlit | [GitHub](https://github.com/aarohi1822/TurbXplain) · [Live Demo](https://turbxplain-aarohi.streamlit.app/) |
 | 🔍 **RAGNova** | RAG · LLM Engineering | FastAPI, FAISS, BM25, LangChain, SQLite | [GitHub](https://github.com/aarohi1822/RagNova) · [Live Demo](https://ragnova-aarohi.streamlit.app/) |
 | 🛰️ **NetSentrix** | Anomaly Detection · NASA Telemetry | TensorFlow, LSTM-Autoencoder, Streamlit | [GitHub](https://github.com/aarohi1822/NetSentrix) · [Live Demo](https://iot-sentinel-aarohigs.streamlit.app/) |
 | 🦴 **OsteoDetect** | Medical AI · Hackathon | TensorFlow/Keras, CNN, Google Colab | [GitHub](https://github.com/aarohi1822/OsteoDetect) |
