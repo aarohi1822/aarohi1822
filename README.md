@@ -88,4 +88,4 @@
 
 ---
 
-*Open to internships, research collaborations, and MS opportunities in AI/ML and Data Science.*
+*Building at the intersection of ML systems, explainability, and real-world deployment — open to internships, research collaborations, and MS opportunities in AI/ML and Data Science.*
